@@ -1,0 +1,13 @@
+
+h1, p{
+    border: 3px solid red;
+}
+
+.principal{
+    border:3px solid red;
+    width: 50px;
+    /*text-align:center;*/
+    /*color:red; */
+    margin-left: auto;
+    margin-right: auto;
+}

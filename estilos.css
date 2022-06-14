@@ -1,0 +1,26 @@
+/*Elemento*/
+h1{
+    color:red;
+    background-color: blueviolet;
+    margin:0px;
+    padding-left:20px;
+}
+
+/*Clase*/
+.tituloSecundario{
+    color:blueviolet;
+    text-align: center;
+    margin:0px;
+}
+
+/*Identificador*/
+#parrafoUno{
+    color:green;
+    border-left: 10px solid red;
+    border-top: 10px solid red;
+    margin:0px;
+
+    
+
+
+}
